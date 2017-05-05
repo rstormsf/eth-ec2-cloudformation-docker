@@ -3,7 +3,7 @@
 
 Region | Launch Template
 ------------ | -------------
-**N. Virginia** (us-east-1) | [![Launch Eth Stack into Virginia with CloudFormation](/Images/deploy-to-aws.png)](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=ethereumdockerstack&templateURL=https://s3.amazonaws.com/aws-ethereum-docker-stack-us-east-1/eth.yml)
+**N. Virginia** (us-east-1) | [![Launch Eth Stack into Virginia with CloudFormation](/Images/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=ethereumdockerstack&templateURL=https://s3.amazonaws.com/aws-ethereum-docker-stack-us-east-1/eth.yml)
 
 
 * input AWS Key for EC2 instance access
